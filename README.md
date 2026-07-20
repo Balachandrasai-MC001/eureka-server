@@ -18,3 +18,19 @@ Spring Cloud Netflix Eureka Server for the Secure Vulnerability Platform.
 - authentication-service
 - vulnerability-service
 - api-gateway
+
+## Responsibilities
+
+- Service Registration
+- Service Discovery
+- Dynamic Service Lookup
+
+Registered Services:
+
+- Authentication Service
+- Vulnerability Service
+- API Gateway
+
+Default Port:
+
+8761
